@@ -23,8 +23,8 @@ drwxr-xr-x  2 root root        3 2023-10-31 23:00 ./nut
 -rw-r--r--  1 root root  1016824 2023-10-31 23:00 ./nut/nut-2.8.1-x86_64-1.txz
 drwxr-xr-x  2 root root        3 2024-01-20 23:00 ./pixz
 -rw-r--r--  1 root root      776 2024-01-20 23:00 ./pixz/pixz-1.0.6-x86_64-1.txz
-drwxr-xr-x  2 root root        3 2023-01-31 21:23 ./powertop
--rw-r--r--  1 root root  2159332 2023-01-31 21:23 ./powertop/powertop-2.16-rc3-x86_64-1.txz
+drwxr-xr-x  2 root root        3 2023-01-31 21:23 ./powertop16
+-rw-r--r--  1 root root  2159332 2023-01-31 21:23 ./powertop16/powertop-2.16-rc3-x86_64-1.txz
 drwxr-xr-x  2 root root        2 2023-06-29 13:05 ./python3_lxc
 drwxr-xr-x  2 root root        3 2023-06-29 13:08 ./python3-lxc
 -rw-r--r--  1 root root    47668 2023-06-29 13:08 ./python3-lxc/python3-lxc-5.0.0-x86_64-1.txz
